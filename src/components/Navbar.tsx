@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { Search } from "lucide-react";
+// import { Search } from "lucide-react";
 import { usePathname } from "next/navigation";
 import WalletConnectButton from "./WalletButton";
 
