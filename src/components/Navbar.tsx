@@ -32,7 +32,7 @@ const Navbar = () => {
             </Link>
             <div className="flex gap-10 items-center justify-center">
               <div className="relative">
-                <Search className=" h-4 w-4 absolute  -translate-y-1/2 text-gray-400" />
+                {/* <Search className=" h-4 w-4 absolute  -translate-y-1/2 text-gray-400" /> */}
                 <input
                   type="text"
                   placeholder="Search..."
